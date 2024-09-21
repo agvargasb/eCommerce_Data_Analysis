@@ -1,5 +1,6 @@
 # Sprint project 01
 > E-Commerce Data Pipeline
+> Download the dataset here [https://drive.google.com/uc?id=1trgFlD744ZqotEx4cUpUSG4Tlh9Z9C8a] and place it in the root directory.
 
 Hi! this is the first of several projects we're going to be working on during this course.
 
